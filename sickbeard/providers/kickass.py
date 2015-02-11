@@ -48,7 +48,7 @@ class KickAssProvider(generic.TorrentProvider):
         self.name = "KickAss"
         self.session = None
         self.supportsBacklog = True
-        self.url = "http://kickass.so/"
+        self.url = "http://kat.ph"
         logger.log("[" + self.name + "] initializing...")
         
     ###################################################################################################
